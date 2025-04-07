@@ -9,6 +9,6 @@
   "INCREMENTAL": "null",
   "ID": "null",
   "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250221.015/13278879:user/release-keys",
-  "SECURITY_PATCH": "null",
+  "SECURITY_PATCH": "2025-03-05",
   "DEVICE_INITIAL_SDK_INT": "null"
 }
