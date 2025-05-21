@@ -1,14 +1,14 @@
 {
   "VERSION": "20250518",
-  "PRODUCT": "oriole_beta",
-  "DEVICE": "oriole",
+  "PRODUCT": "shiba_beta",
+  "DEVICE": "shiba",
   "MANUFACTURER": "Google",
   "BRAND": "google",
-  "MODEL": "Pixel 6",
+  "MODEL": "Pixel 8",
   "RELEASE": "null",
   "INCREMENTAL": "null",
   "ID": "null",
-  "FINGERPRINT": "google/oriole_beta/oriole:16/BP22.250325.012/13467521:user/release-keys",
+  "FINGERPRINT": "google/shiba_beta/shiba:16/BP22.250325.012/13467521:user/release-keys",
   "SECURITY_PATCH": "null",
   "DEVICE_INITIAL_SDK_INT": "null"
 }
